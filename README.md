@@ -26,7 +26,7 @@ Again, we see the major utility vendorsBrooklyn seems to have the most developm
 We see from the account names that the properties are located in Brooklyn</br></br>
 ![pic6](https://user-images.githubusercontent.com/62908910/153584466-cd52bc1b-c3e7-42a2-b593-a02db2470e00.PNG)
 
-Here we see the average charges for gas per year for all buildings.
+Here we see the average charges for gas per year for all buildings.</br></br>
 ![pic7](https://user-images.githubusercontent.com/62908910/153584480-a1939f99-2780-44a9-8696-3027d979c2cb.PNG)
 </br></br>
 ![pic8](https://user-images.githubusercontent.com/62908910/153584495-83303102-5c7c-480d-8ab1-41cdc91c5fb1.PNG)
